@@ -1,2 +1,2 @@
 # Example-of-README.md
-example
+##example of a repository and a file in github
